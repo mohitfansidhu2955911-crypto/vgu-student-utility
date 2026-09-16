@@ -1,0 +1,6 @@
+{
+  "name": "VGU Student Utility Hub",
+  "description": "Academic utility suite for Vivekananda Global University Jaipur (VGU) featuring CGPA/SGPA calculation, percentage conversion, and 75% attendance planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
